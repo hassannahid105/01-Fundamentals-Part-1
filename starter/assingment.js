@@ -193,8 +193,8 @@ for (let i = 1; i <= 50; i++) {
 }
  */
 
-const populations =[12, 34, 56,67];
+// const populations = [12, 34, 56, 67];
 
-for (let i = 0; i < populations.length; i++){
-  const perc = pe
-}
+// for (let i = 0; i < populations.length; i++) {
+//   const perc = pe;
+// }
